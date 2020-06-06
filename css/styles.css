@@ -1,0 +1,141 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-size: 5.625em;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+  margin: 20px;
+
+}
+hr{
+
+  border: none;
+  border-top: 10px dotted #EAF6F6;
+  width: 5%;
+  margin: 100px auto 100px auto;
+
+}
+a:link{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+ul{
+  margin: auto;
+}
+
+/*div{
+  background-color: #E4F9F5;
+
+
+}*/
+/*-----------------------------class----------------------------------- */
+.topbox{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+ padding-bottom: 50px;
+ padding-top: 50px;
+}
+.bottom-container{
+ background-color: #66BFBF;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ line-height: 2;
+}
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottomcloud{
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+
+}
+.pro{
+  font-weight: normal;
+}
+.profile-p{
+  margin-bottom: 50px;
+}
+
+.skill-row1{
+  background-color:#f4f6ff;
+  border: 2px;
+  border-radius: 12px;
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  background-color:#f4f6ff;
+  border: 2px;
+  border-radius: 12px;
+  width: 50%;
+  margin:200px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-img1{
+  width: 28%;
+  height: 213px;
+  float: left;
+  margin-right: 32px;
+}
+.skill-img2{
+  width: 28%;
+  height: 220px;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: normal;
+}
+.contact-p{
+  margin-bottom: 50px;
+}
+.btn{
+
+  background-color: #66BFBF;
+  border-radius: 12px;
+  padding: 10px 24px;
+  font-size: 20px;
+  transition-duration: 0.4s;
+  color: white;
+}
+.btn:hover{
+  background-color: white;
+  color:  #66BFBF;
+  border: 1px solid  #66BFBF;
+}
+
+.footer-p{
+  color: white;
+  font-size: 0.8rem;
+
+}
